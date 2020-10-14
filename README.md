@@ -1,2 +1,6 @@
 # zdpytpol14_workshop
-Praciticing git and github
+
+```python
+def test_func():
+  pass
+```
